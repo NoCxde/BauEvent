@@ -1,0 +1,14 @@
+name: BauEvent
+version: '${project.version}'
+main: net.swleague.bauevent.BauEvent
+api-version: 1.20
+authors: [ NoCxde ]
+description: Small BauEvent System
+
+commands:
+  help:
+    aliases: hilfe
+  Gamemode:
+    aliases: gm
+  Msg:
+    aliases: tell
